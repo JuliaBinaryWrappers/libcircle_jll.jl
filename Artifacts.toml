@@ -1,0 +1,459 @@
+[[libcircle]]
+arch = "aarch64"
+git-tree-sha1 = "931aa2568401eccb8a41abf934990c4aae4e1c53"
+lazy = true
+mpi = "mpich"
+os = "macos"
+
+    [[libcircle.download]]
+    sha256 = "0d26f55eca1df392ac9a44bdd4a5873ab889ed586779bf4d835145918378b4ea"
+    url = "https://github.com/JuliaBinaryWrappers/libcircle_jll.jl/releases/download/libcircle-v0.3.0+0/libcircle.v0.3.0.aarch64-apple-darwin-mpi+mpich.tar.gz"
+[[libcircle]]
+arch = "aarch64"
+git-tree-sha1 = "93fed74d5f98ee073ddf5ed4d801230726398c93"
+lazy = true
+mpi = "mpitrampoline"
+os = "macos"
+
+    [[libcircle.download]]
+    sha256 = "b28d82cbd562fd1ab0f374af4aee8c22fdc231112d4e2bcd3f9dceec08e4648c"
+    url = "https://github.com/JuliaBinaryWrappers/libcircle_jll.jl/releases/download/libcircle-v0.3.0+0/libcircle.v0.3.0.aarch64-apple-darwin-mpi+mpitrampoline.tar.gz"
+[[libcircle]]
+arch = "aarch64"
+git-tree-sha1 = "4ad0988f8e4ceff7c1a94db3d582001d4c3c1872"
+lazy = true
+mpi = "openmpi"
+os = "macos"
+
+    [[libcircle.download]]
+    sha256 = "d037cc04d5330b93c5a7a7bea37294fe1bf49adf0bce092e75a37f88d9bc7e99"
+    url = "https://github.com/JuliaBinaryWrappers/libcircle_jll.jl/releases/download/libcircle-v0.3.0+0/libcircle.v0.3.0.aarch64-apple-darwin-mpi+openmpi.tar.gz"
+[[libcircle]]
+arch = "aarch64"
+git-tree-sha1 = "99da7734840f380216e9d4716618828b7f076d65"
+lazy = true
+libc = "glibc"
+mpi = "mpich"
+os = "linux"
+
+    [[libcircle.download]]
+    sha256 = "aa0e6f1579a95d2a3f75086618fba8ade2e6c95df25b8d0ccd7e02df41fb333c"
+    url = "https://github.com/JuliaBinaryWrappers/libcircle_jll.jl/releases/download/libcircle-v0.3.0+0/libcircle.v0.3.0.aarch64-linux-gnu-mpi+mpich.tar.gz"
+[[libcircle]]
+arch = "aarch64"
+git-tree-sha1 = "bc16d86e3ca697c43987b1660b92290555fa9968"
+lazy = true
+libc = "glibc"
+mpi = "mpitrampoline"
+os = "linux"
+
+    [[libcircle.download]]
+    sha256 = "90ea0658d713ce10faac6a21bd842b5b1bf3ddfad3ca9fe5f648bcecaddb5b1a"
+    url = "https://github.com/JuliaBinaryWrappers/libcircle_jll.jl/releases/download/libcircle-v0.3.0+0/libcircle.v0.3.0.aarch64-linux-gnu-mpi+mpitrampoline.tar.gz"
+[[libcircle]]
+arch = "aarch64"
+git-tree-sha1 = "21d3be182e1f16b8d3fc0d08ee5d72ceb2b823b8"
+lazy = true
+libc = "glibc"
+mpi = "openmpi"
+os = "linux"
+
+    [[libcircle.download]]
+    sha256 = "7a0a9eb9ccd9e307537fef8e42ac8ad32776599db31b24af5be00214a4b01866"
+    url = "https://github.com/JuliaBinaryWrappers/libcircle_jll.jl/releases/download/libcircle-v0.3.0+0/libcircle.v0.3.0.aarch64-linux-gnu-mpi+openmpi.tar.gz"
+[[libcircle]]
+arch = "aarch64"
+git-tree-sha1 = "6468c3e546caa9f0e2e57f7ea798f60f80616090"
+lazy = true
+libc = "musl"
+mpi = "mpich"
+os = "linux"
+
+    [[libcircle.download]]
+    sha256 = "92e33e6b97cea78472603fd541200a14440ce9e9d90dbe0c49c8a1be1b7fb4f9"
+    url = "https://github.com/JuliaBinaryWrappers/libcircle_jll.jl/releases/download/libcircle-v0.3.0+0/libcircle.v0.3.0.aarch64-linux-musl-mpi+mpich.tar.gz"
+[[libcircle]]
+arch = "aarch64"
+git-tree-sha1 = "43f6a5d51217c105ed2343de4280aa39603282be"
+lazy = true
+libc = "musl"
+mpi = "openmpi"
+os = "linux"
+
+    [[libcircle.download]]
+    sha256 = "83768c418448f5fbef34a01c2feb70d410a1273fd58917afeed636ec65d342e0"
+    url = "https://github.com/JuliaBinaryWrappers/libcircle_jll.jl/releases/download/libcircle-v0.3.0+0/libcircle.v0.3.0.aarch64-linux-musl-mpi+openmpi.tar.gz"
+[[libcircle]]
+arch = "aarch64"
+git-tree-sha1 = "3533df843a036b3f145724f1713d8795b090e756"
+lazy = true
+mpi = "mpich"
+os = "freebsd"
+
+    [[libcircle.download]]
+    sha256 = "1a0996cee9a752c358fa47436971618d9309609c4e9caafa6e5c70888c3b219e"
+    url = "https://github.com/JuliaBinaryWrappers/libcircle_jll.jl/releases/download/libcircle-v0.3.0+0/libcircle.v0.3.0.aarch64-unknown-freebsd-mpi+mpich.tar.gz"
+[[libcircle]]
+arch = "aarch64"
+git-tree-sha1 = "5a18bebb0c843a1b0932c84726395d06d849a09f"
+lazy = true
+mpi = "mpitrampoline"
+os = "freebsd"
+
+    [[libcircle.download]]
+    sha256 = "218d49137b416007f3a4d55eb938decda66d28ffd27c74af34e759d08df6e675"
+    url = "https://github.com/JuliaBinaryWrappers/libcircle_jll.jl/releases/download/libcircle-v0.3.0+0/libcircle.v0.3.0.aarch64-unknown-freebsd-mpi+mpitrampoline.tar.gz"
+[[libcircle]]
+arch = "aarch64"
+git-tree-sha1 = "4c8edd88d8a552abe95dfb3b6bcb000ea6efb7b1"
+lazy = true
+mpi = "openmpi"
+os = "freebsd"
+
+    [[libcircle.download]]
+    sha256 = "c50b8c177d7c0d1ab3a2d4a73bec36cc8affb31e5f85e4f8ae1a0147bb8cd25a"
+    url = "https://github.com/JuliaBinaryWrappers/libcircle_jll.jl/releases/download/libcircle-v0.3.0+0/libcircle.v0.3.0.aarch64-unknown-freebsd-mpi+openmpi.tar.gz"
+[[libcircle]]
+arch = "armv6l"
+call_abi = "eabihf"
+git-tree-sha1 = "00c42a1b154081830bee463ebc02b3ab674ea486"
+lazy = true
+libc = "glibc"
+mpi = "mpich"
+os = "linux"
+
+    [[libcircle.download]]
+    sha256 = "db9ce694fb5037c969138cb3120d9aa9f059d1d0a86d04b982debcaaa9a1ed13"
+    url = "https://github.com/JuliaBinaryWrappers/libcircle_jll.jl/releases/download/libcircle-v0.3.0+0/libcircle.v0.3.0.armv6l-linux-gnueabihf-mpi+mpich.tar.gz"
+[[libcircle]]
+arch = "armv6l"
+call_abi = "eabihf"
+git-tree-sha1 = "932a03fe8cf8940b305f5fdfaf962a4737e9a1fd"
+lazy = true
+libc = "glibc"
+mpi = "mpitrampoline"
+os = "linux"
+
+    [[libcircle.download]]
+    sha256 = "e4c09057475d6d24cb945701839e6828f96427bee07640b9377f58aaac5bee5f"
+    url = "https://github.com/JuliaBinaryWrappers/libcircle_jll.jl/releases/download/libcircle-v0.3.0+0/libcircle.v0.3.0.armv6l-linux-gnueabihf-mpi+mpitrampoline.tar.gz"
+[[libcircle]]
+arch = "armv6l"
+call_abi = "eabihf"
+git-tree-sha1 = "6d08923a6f6ae33f871d004749b26c3c942dc8e8"
+lazy = true
+libc = "musl"
+mpi = "mpich"
+os = "linux"
+
+    [[libcircle.download]]
+    sha256 = "b987ceffb9daff45c4bc965d721e7d678f362bc84d2207844d4a69a2dd734971"
+    url = "https://github.com/JuliaBinaryWrappers/libcircle_jll.jl/releases/download/libcircle-v0.3.0+0/libcircle.v0.3.0.armv6l-linux-musleabihf-mpi+mpich.tar.gz"
+[[libcircle]]
+arch = "armv6l"
+call_abi = "eabihf"
+git-tree-sha1 = "92b9a34d5c5a94190f8b41c0b4669734fe857dcf"
+lazy = true
+libc = "musl"
+mpi = "openmpi"
+os = "linux"
+
+    [[libcircle.download]]
+    sha256 = "39ba5ba5e41290378c80df0d764414c4bcad4d38a4cc44b3d5a468cf296580f0"
+    url = "https://github.com/JuliaBinaryWrappers/libcircle_jll.jl/releases/download/libcircle-v0.3.0+0/libcircle.v0.3.0.armv6l-linux-musleabihf-mpi+openmpi.tar.gz"
+[[libcircle]]
+arch = "armv7l"
+call_abi = "eabihf"
+git-tree-sha1 = "05d6c4e120e1656b5409ba98ea1ceb51434d3351"
+lazy = true
+libc = "glibc"
+mpi = "mpich"
+os = "linux"
+
+    [[libcircle.download]]
+    sha256 = "34add7fdb1950e14e88ac25710bcc90d3809319cded6840eeaf54e6632784807"
+    url = "https://github.com/JuliaBinaryWrappers/libcircle_jll.jl/releases/download/libcircle-v0.3.0+0/libcircle.v0.3.0.armv7l-linux-gnueabihf-mpi+mpich.tar.gz"
+[[libcircle]]
+arch = "armv7l"
+call_abi = "eabihf"
+git-tree-sha1 = "e5357a029700af7279c5f68ae73702c022bf0968"
+lazy = true
+libc = "glibc"
+mpi = "mpitrampoline"
+os = "linux"
+
+    [[libcircle.download]]
+    sha256 = "5a68d6e51d168173d65c0afdbab6932e4e4e5f24f6a52e4ce8d5d0c2c5588751"
+    url = "https://github.com/JuliaBinaryWrappers/libcircle_jll.jl/releases/download/libcircle-v0.3.0+0/libcircle.v0.3.0.armv7l-linux-gnueabihf-mpi+mpitrampoline.tar.gz"
+[[libcircle]]
+arch = "armv7l"
+call_abi = "eabihf"
+git-tree-sha1 = "5a1cfde97dbafb994b2d8a278ad3faf0448856eb"
+lazy = true
+libc = "glibc"
+mpi = "openmpi"
+os = "linux"
+
+    [[libcircle.download]]
+    sha256 = "a24e178de9d6a9135c1ef2c2984a4898924335ad22e55b987de7ab4545b60ae8"
+    url = "https://github.com/JuliaBinaryWrappers/libcircle_jll.jl/releases/download/libcircle-v0.3.0+0/libcircle.v0.3.0.armv7l-linux-gnueabihf-mpi+openmpi.tar.gz"
+[[libcircle]]
+arch = "armv7l"
+call_abi = "eabihf"
+git-tree-sha1 = "433d31b011e24f26134d75be17aef1411c2f80ac"
+lazy = true
+libc = "musl"
+mpi = "mpich"
+os = "linux"
+
+    [[libcircle.download]]
+    sha256 = "2f7266e7db2efe2df675274fec39cfe5aeb5f222346446e2a698d51aef7b9e0b"
+    url = "https://github.com/JuliaBinaryWrappers/libcircle_jll.jl/releases/download/libcircle-v0.3.0+0/libcircle.v0.3.0.armv7l-linux-musleabihf-mpi+mpich.tar.gz"
+[[libcircle]]
+arch = "armv7l"
+call_abi = "eabihf"
+git-tree-sha1 = "98f586c90b0528e7865176dbfe77047283ac0afb"
+lazy = true
+libc = "musl"
+mpi = "openmpi"
+os = "linux"
+
+    [[libcircle.download]]
+    sha256 = "f58a1177eb1a22280f94d25a2e3756488fdb18f082889aa5e8cf24bd2ef7a3cb"
+    url = "https://github.com/JuliaBinaryWrappers/libcircle_jll.jl/releases/download/libcircle-v0.3.0+0/libcircle.v0.3.0.armv7l-linux-musleabihf-mpi+openmpi.tar.gz"
+[[libcircle]]
+arch = "i686"
+git-tree-sha1 = "07ad5e5ea7ed22430f68b1b6a5e776aaf56d0a21"
+lazy = true
+libc = "glibc"
+mpi = "mpich"
+os = "linux"
+
+    [[libcircle.download]]
+    sha256 = "83a1815014a6bc0cfcffb665ced3b2bc26bb805b7417ddb03d20a3d53f180c9f"
+    url = "https://github.com/JuliaBinaryWrappers/libcircle_jll.jl/releases/download/libcircle-v0.3.0+0/libcircle.v0.3.0.i686-linux-gnu-mpi+mpich.tar.gz"
+[[libcircle]]
+arch = "i686"
+git-tree-sha1 = "571bfe976bc6b163368ec8a9181b3c3aa8893bf9"
+lazy = true
+libc = "glibc"
+mpi = "mpitrampoline"
+os = "linux"
+
+    [[libcircle.download]]
+    sha256 = "d8ee8cd556faf0a524e1a09a6ebcbad146d5ad1591aa289060ed8eddb6563713"
+    url = "https://github.com/JuliaBinaryWrappers/libcircle_jll.jl/releases/download/libcircle-v0.3.0+0/libcircle.v0.3.0.i686-linux-gnu-mpi+mpitrampoline.tar.gz"
+[[libcircle]]
+arch = "i686"
+git-tree-sha1 = "e92504594f227e3aa81c566efe958eaaae979f05"
+lazy = true
+libc = "glibc"
+mpi = "openmpi"
+os = "linux"
+
+    [[libcircle.download]]
+    sha256 = "480cbc383d3c79bd1a795428d8f2468874b923db1dd1cf5a295984a2902b65f8"
+    url = "https://github.com/JuliaBinaryWrappers/libcircle_jll.jl/releases/download/libcircle-v0.3.0+0/libcircle.v0.3.0.i686-linux-gnu-mpi+openmpi.tar.gz"
+[[libcircle]]
+arch = "i686"
+git-tree-sha1 = "61098c94a9ae42856fd3d4f5cbc4f789e5445c6e"
+lazy = true
+libc = "musl"
+mpi = "mpich"
+os = "linux"
+
+    [[libcircle.download]]
+    sha256 = "ae0ece511673dfd663f9f94a256301debf19e828b10555f1977ea5a5244cd255"
+    url = "https://github.com/JuliaBinaryWrappers/libcircle_jll.jl/releases/download/libcircle-v0.3.0+0/libcircle.v0.3.0.i686-linux-musl-mpi+mpich.tar.gz"
+[[libcircle]]
+arch = "i686"
+git-tree-sha1 = "3c2a127e932ef16d47d3cd87f5cc86c8805427c4"
+lazy = true
+libc = "musl"
+mpi = "openmpi"
+os = "linux"
+
+    [[libcircle.download]]
+    sha256 = "84bfc97e9857a8689ebe07c3b041cb7c8c56395ca286d2bc94fafe47eb7aaf02"
+    url = "https://github.com/JuliaBinaryWrappers/libcircle_jll.jl/releases/download/libcircle-v0.3.0+0/libcircle.v0.3.0.i686-linux-musl-mpi+openmpi.tar.gz"
+[[libcircle]]
+arch = "powerpc64le"
+git-tree-sha1 = "89d974ee56ca730d03b286b9ffd4e2f04e40ad34"
+lazy = true
+libc = "glibc"
+mpi = "mpich"
+os = "linux"
+
+    [[libcircle.download]]
+    sha256 = "38a4ffd24174fe17b4c087b67ca55743007a7d51aa36efa13b5a4fa6c190b04e"
+    url = "https://github.com/JuliaBinaryWrappers/libcircle_jll.jl/releases/download/libcircle-v0.3.0+0/libcircle.v0.3.0.powerpc64le-linux-gnu-mpi+mpich.tar.gz"
+[[libcircle]]
+arch = "powerpc64le"
+git-tree-sha1 = "376af28101bd7c42246d92d37ae7c4d073fb7568"
+lazy = true
+libc = "glibc"
+mpi = "mpitrampoline"
+os = "linux"
+
+    [[libcircle.download]]
+    sha256 = "aab523b32169444d328bd2e7470766ecc302ba773a865a27cdbb8c0f8768da45"
+    url = "https://github.com/JuliaBinaryWrappers/libcircle_jll.jl/releases/download/libcircle-v0.3.0+0/libcircle.v0.3.0.powerpc64le-linux-gnu-mpi+mpitrampoline.tar.gz"
+[[libcircle]]
+arch = "powerpc64le"
+git-tree-sha1 = "a1e3cf39b3e4cc8f72fb753494378acaa1d51584"
+lazy = true
+libc = "glibc"
+mpi = "openmpi"
+os = "linux"
+
+    [[libcircle.download]]
+    sha256 = "fe246c05a5b466140a05294dfafa2599fa19e6637764ca17c08bf353a59575ba"
+    url = "https://github.com/JuliaBinaryWrappers/libcircle_jll.jl/releases/download/libcircle-v0.3.0+0/libcircle.v0.3.0.powerpc64le-linux-gnu-mpi+openmpi.tar.gz"
+[[libcircle]]
+arch = "riscv64"
+git-tree-sha1 = "6cf5f5a0ec172b39b863500c53d097509c41472a"
+lazy = true
+libc = "glibc"
+mpi = "mpich"
+os = "linux"
+
+    [[libcircle.download]]
+    sha256 = "c0fc16def0d91ec3886224fe951ee790126e782315551fce66cb333c1ab2dbaf"
+    url = "https://github.com/JuliaBinaryWrappers/libcircle_jll.jl/releases/download/libcircle-v0.3.0+0/libcircle.v0.3.0.riscv64-linux-gnu-mpi+mpich.tar.gz"
+[[libcircle]]
+arch = "riscv64"
+git-tree-sha1 = "882fcad7300e7247432898f1d0b02b4724ca9449"
+lazy = true
+libc = "glibc"
+mpi = "mpitrampoline"
+os = "linux"
+
+    [[libcircle.download]]
+    sha256 = "2357e13d8b7ed9d8ecd46a956bd5896dfc96f180ff23836a37f30bb0ad04193f"
+    url = "https://github.com/JuliaBinaryWrappers/libcircle_jll.jl/releases/download/libcircle-v0.3.0+0/libcircle.v0.3.0.riscv64-linux-gnu-mpi+mpitrampoline.tar.gz"
+[[libcircle]]
+arch = "riscv64"
+git-tree-sha1 = "98dcf3939f996f8d2b65a37bd7869d9dedce70e7"
+lazy = true
+libc = "glibc"
+mpi = "openmpi"
+os = "linux"
+
+    [[libcircle.download]]
+    sha256 = "4ec9f50adf4697bbe2248122958dd8560896db07bfc465dbc322add66386fa9b"
+    url = "https://github.com/JuliaBinaryWrappers/libcircle_jll.jl/releases/download/libcircle-v0.3.0+0/libcircle.v0.3.0.riscv64-linux-gnu-mpi+openmpi.tar.gz"
+[[libcircle]]
+arch = "x86_64"
+git-tree-sha1 = "3ef10ebbc923b50d3250c477606f81b6a48fd93d"
+lazy = true
+mpi = "mpich"
+os = "macos"
+
+    [[libcircle.download]]
+    sha256 = "4b43c7054df774927ced139fa764a599867c727d244a1632600857ebdc4952b3"
+    url = "https://github.com/JuliaBinaryWrappers/libcircle_jll.jl/releases/download/libcircle-v0.3.0+0/libcircle.v0.3.0.x86_64-apple-darwin-mpi+mpich.tar.gz"
+[[libcircle]]
+arch = "x86_64"
+git-tree-sha1 = "d9a3a2a4906db0e0e436d4c7534f404b148d9ca8"
+lazy = true
+mpi = "mpitrampoline"
+os = "macos"
+
+    [[libcircle.download]]
+    sha256 = "54f63a74101f952e8a3925541f57465a5540cf7451933a9e1892654c11ce3538"
+    url = "https://github.com/JuliaBinaryWrappers/libcircle_jll.jl/releases/download/libcircle-v0.3.0+0/libcircle.v0.3.0.x86_64-apple-darwin-mpi+mpitrampoline.tar.gz"
+[[libcircle]]
+arch = "x86_64"
+git-tree-sha1 = "b383de6c5364acf15baa7af2284a46ed592c20b3"
+lazy = true
+mpi = "openmpi"
+os = "macos"
+
+    [[libcircle.download]]
+    sha256 = "d3b182dde53c8706a24997939398eaa5d37fe4b88429e65fff41e0470c596f77"
+    url = "https://github.com/JuliaBinaryWrappers/libcircle_jll.jl/releases/download/libcircle-v0.3.0+0/libcircle.v0.3.0.x86_64-apple-darwin-mpi+openmpi.tar.gz"
+[[libcircle]]
+arch = "x86_64"
+git-tree-sha1 = "965a8c5ebd817dbe15f343fc51902edfb5704641"
+lazy = true
+libc = "glibc"
+mpi = "mpich"
+os = "linux"
+
+    [[libcircle.download]]
+    sha256 = "e62a27fb78097ca0ceecf4b0550023ae31c2e076db4a3f7e4b2ace5e003bee1b"
+    url = "https://github.com/JuliaBinaryWrappers/libcircle_jll.jl/releases/download/libcircle-v0.3.0+0/libcircle.v0.3.0.x86_64-linux-gnu-mpi+mpich.tar.gz"
+[[libcircle]]
+arch = "x86_64"
+git-tree-sha1 = "8cc7d08493dadf69ffe2bc617f345b8f8243d171"
+lazy = true
+libc = "glibc"
+mpi = "mpitrampoline"
+os = "linux"
+
+    [[libcircle.download]]
+    sha256 = "634b3cf33085610ba0db270d76d3b197ee2e7242d3b6f0cd270d8073bdd5e83e"
+    url = "https://github.com/JuliaBinaryWrappers/libcircle_jll.jl/releases/download/libcircle-v0.3.0+0/libcircle.v0.3.0.x86_64-linux-gnu-mpi+mpitrampoline.tar.gz"
+[[libcircle]]
+arch = "x86_64"
+git-tree-sha1 = "f7f5674fef5c58b1a69f9ee4ddafbc9fb3bb135b"
+lazy = true
+libc = "glibc"
+mpi = "openmpi"
+os = "linux"
+
+    [[libcircle.download]]
+    sha256 = "c492c07b20b4f8d02db74eb9b51fa947797d972a545b47519fbb74b3daec695a"
+    url = "https://github.com/JuliaBinaryWrappers/libcircle_jll.jl/releases/download/libcircle-v0.3.0+0/libcircle.v0.3.0.x86_64-linux-gnu-mpi+openmpi.tar.gz"
+[[libcircle]]
+arch = "x86_64"
+git-tree-sha1 = "938c8e60db95a40826561486c2947df902db3d3b"
+lazy = true
+libc = "musl"
+mpi = "mpich"
+os = "linux"
+
+    [[libcircle.download]]
+    sha256 = "36c0726aed9cb808d69a92b78206e427ae835059df575b5d470a11ba260076dc"
+    url = "https://github.com/JuliaBinaryWrappers/libcircle_jll.jl/releases/download/libcircle-v0.3.0+0/libcircle.v0.3.0.x86_64-linux-musl-mpi+mpich.tar.gz"
+[[libcircle]]
+arch = "x86_64"
+git-tree-sha1 = "2870f59f32c27bf3ba453efa5b4dcb7f27c234b7"
+lazy = true
+libc = "musl"
+mpi = "openmpi"
+os = "linux"
+
+    [[libcircle.download]]
+    sha256 = "01f845cf1f930258577d1a9e3ec63e36b903459fdaf03a967a3b1f191767cb4d"
+    url = "https://github.com/JuliaBinaryWrappers/libcircle_jll.jl/releases/download/libcircle-v0.3.0+0/libcircle.v0.3.0.x86_64-linux-musl-mpi+openmpi.tar.gz"
+[[libcircle]]
+arch = "x86_64"
+git-tree-sha1 = "02b55939fff9e51a1136dd103b9b7f55d4ea8aae"
+lazy = true
+mpi = "mpich"
+os = "freebsd"
+
+    [[libcircle.download]]
+    sha256 = "cfe3e9d78a06053b2da79d4b42d07031051d66886d788d0d5968c0f4afd1c70c"
+    url = "https://github.com/JuliaBinaryWrappers/libcircle_jll.jl/releases/download/libcircle-v0.3.0+0/libcircle.v0.3.0.x86_64-unknown-freebsd-mpi+mpich.tar.gz"
+[[libcircle]]
+arch = "x86_64"
+git-tree-sha1 = "50d0cdb959f9f68c6487b8ac62d69479145b566e"
+lazy = true
+mpi = "mpitrampoline"
+os = "freebsd"
+
+    [[libcircle.download]]
+    sha256 = "8bbaedaa0247b8fce9cd7d035c5170455e26118c9f3a957244e69c8bbe31ffe4"
+    url = "https://github.com/JuliaBinaryWrappers/libcircle_jll.jl/releases/download/libcircle-v0.3.0+0/libcircle.v0.3.0.x86_64-unknown-freebsd-mpi+mpitrampoline.tar.gz"
+[[libcircle]]
+arch = "x86_64"
+git-tree-sha1 = "20bf60d2bfa945ab0ab14d9479456830d8a0060c"
+lazy = true
+mpi = "openmpi"
+os = "freebsd"
+
+    [[libcircle.download]]
+    sha256 = "02889fa1a3a662887b7ea403b10e4b716647ea29dd8c441bba50c1c8e7e3eabe"
+    url = "https://github.com/JuliaBinaryWrappers/libcircle_jll.jl/releases/download/libcircle-v0.3.0+0/libcircle.v0.3.0.x86_64-unknown-freebsd-mpi+openmpi.tar.gz"
